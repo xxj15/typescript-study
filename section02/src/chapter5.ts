@@ -32,3 +32,5 @@ const user4 = {
   name: "지젤",
   language: Language.korean, // "ko"
 };
+
+// enum은 컴파일 결과 객체가 된다 
