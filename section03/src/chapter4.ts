@@ -67,3 +67,9 @@ let intersection1: Intersection = {
   color: "",
   language: "",
 };
+
+// let intersection2: Intersection = {
+//   name: "",
+//   color: "",
+// };
+// 프로퍼티가 하나라도 빠지면 이 type에 포함되지 X
